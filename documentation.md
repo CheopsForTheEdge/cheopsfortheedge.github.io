@@ -1,3 +1,7 @@
+---
+permalink: /documentation.html
+---
+
 # Documentation
 
 ## Research papers
@@ -41,12 +45,17 @@
 
 ## Slides
 
+- [OpenInfra Summit 2022, Berlin](https://gitlab.inria.fr/discovery/cheops/-/raw/master/Infos/Slides_OpenInfra_Summit_2022.pdf)
+- [AMP 2021](https://docs.google.com/presentation/d/1ZusGXEKPaRXQUaodkuvzJ5awdUmU6o8muxNYB-GZOPo/edit?usp=sharing)
+
 
 ## Videos
 
 - **OpenInfra Summit 2022, Berlin** Geo Johns Antony, Marie Delavergne
   and Baptiste Jonglez. Cheops - Can a "service mesh" be the right
-  solution for the Edge?, https://www.youtube.com/watch?v=7EZ63DMRJhc,
+  solution for the Edge?, <https://www.youtube.com/watch?v=7EZ63DMRJhc>,
   OpenInfra Summit 2022, Berlin
 
 ## Others
+
+- [Poster Compas 2022](https://gitlab.inria.fr/discovery/cheops/-/raw/master/Infos/Poster_Compas_2022.pdf)
