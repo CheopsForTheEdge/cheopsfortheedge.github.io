@@ -1,0 +1,5 @@
+- name: Documentation
+  link: /documentation.md
+
+- name: View repo
+  link: https://github.com/CheopsForTheEdge/cheops
