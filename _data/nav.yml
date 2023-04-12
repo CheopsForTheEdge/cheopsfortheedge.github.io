@@ -1,3 +1,6 @@
+- name: Homepage
+  link: /index.html
+
 - name: Documentation
   link: /documentation.html
 

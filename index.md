@@ -1,3 +1,8 @@
+---
+permalink: /index.html
+---
+
+
 # Cheops for the Edge
 
 ## What is Cheops?
