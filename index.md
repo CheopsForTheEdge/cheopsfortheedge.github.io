@@ -22,7 +22,7 @@ application to the Edge is different from deploying the same
 application in a few, well controlled datacenters.
 
 <figure>
-<img width="400" style="margin:auto" src="/assets/img/edge-infra.png">
+<img width="400" style="margin:auto; display:block;" src="/assets/img/edge-infra.png">
   <figcaption>The Cloud and Edge infrastructure considered here.</figcaption>
 </figure>
 
