@@ -21,9 +21,10 @@ the use of Edge infrastructures for applications.  But deploying an
 application to the Edge is different from deploying the same
 application in a few, well controlled datacenters.
 
-
+<figure>
 <img width="400" align='right' src="/assets/img/edge-infra.png">
-<p><em>The Cloud and Edge infrastructure considered here.</em></p>
+  <figcaption>The Cloud and Edge infrastructure considered here.</figcaption>
+</figure>
 
 
 Edge infrastructures imply less resources on each location, increased
