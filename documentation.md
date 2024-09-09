@@ -6,6 +6,7 @@ permalink: /documentation.html
 
 ## Research papers
 
+- **ICFEC 2024** Geo Johns Antony, Marie Delavergne, Adrien Lebre, Matthieu Rakotojaona Rainimangavelo. *Thinking out of replication for geo-distributing applications: the sharding case.* ICFEC 2024 - 8th IEEE International Conference on Fog and Edge Computing, May 2024, Philadelphia, United States. pp.1-8. [hal-04522961](https://inria.hal.science/hal-04522961v1).
 - **ICSOC 2022** Delavergne, M., Antony, G.J., Lebre,
   A. (2022). *Cheops, a Service to Blow Away Cloud Applications to the
   Edge.* In: Troya, J., Medjahed, B., Piattini, M., Yao, L., Fernández,
@@ -36,12 +37,12 @@ permalink: /documentation.html
   Lebre. *Cheops, a service to blow away Cloud applications to the
   Edge.* [Research Report] RR-9486, Inria Rennes - Bretagne
   Atlantique. 2022,
-  pp.1-16. [〈hal-03770492v2〉](https://hal.inria.fr/hal-03770492).
+  pp.1-16. [hal-03770492v2](https://hal.inria.fr/hal-03770492).
 - **RR 2020** Ronan-Alexandre Cherrueau, Marie Delavergne, Adrien
   Lebre, Javier Rojas Balderrama, Matthieu Simonin. *Edge Computing
   Resource Management System: Two Years Later!.* [Research Report]
   RR-9336, Inria Rennes Bretagne
-  Atlantique. 2020. [〈hal-02527366v2〉](https://hal.inria.fr/hal-02527366v2).
+  Atlantique. 2020. [hal-02527366v2](https://hal.inria.fr/hal-02527366v2).
 
 ## Slides
 
@@ -58,4 +59,5 @@ permalink: /documentation.html
 
 ## Others
 
+- **Marie Thesis** Marie Delavergne. *Cheops, a service-mesh to geo-distribute micro-service applications at the Edge.* Distributed, Parallel, and Cluster Computing [cs.DC]. Ecole nationale supérieure Mines-Télécom Atlantique, 2023. English. [NNT : 2023IMTA0347](https://www.theses.fr/2023IMTA0347). [tel-04081084](https://theses.hal.science/tel-04081084).
 - [Poster Compas 2022](https://gitlab.inria.fr/discovery/cheops/-/raw/master/Infos/Poster_Compas_2022.pdf)
