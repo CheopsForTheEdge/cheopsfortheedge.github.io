@@ -9,6 +9,8 @@ before_script:
   - bundle install --path vendor
 
 pages:
+  tags:
+    - medium
   stage: deploy
   script:  # Generate public site and deploy
   - bundle exec jekyll build -d public
