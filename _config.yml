@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 
 title: Cheops
 description: Push your Cloud applications to the Edge
+
+exclude:
+  - vendor
