@@ -19,6 +19,9 @@ test:
   - master
 
 pages:
+  tags:
+    - ci.inria.fr
+    - medium
   stage: deploy
   script:  # Generate public site and deploy
   - bundle exec jekyll build -d public
