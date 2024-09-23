@@ -1,27 +1,14 @@
 image: ruby:3.0  # Use Ruby Docker image
 
-cache:  # Add Bundler cache to 'vendor' directory
+cache:
   paths:
     - vendor/
 
-before_script:  # Install Gems to 'vendor' directory
+before_script:
   - gem install bundler
   - bundle install --path vendor
 
-test:
-  stage: test
-  script:  # Generate test site(s) into 'test' directory
-  - bundle exec jekyll build -d test
-  artifacts:  # Save a zipped version for download
-    paths:
-    - test
-  except:  # Execute for all branches except master
-  - master
-
 pages:
-  tags:
-    - ci.inria.fr
-    - medium
   stage: deploy
   script:  # Generate public site and deploy
   - bundle exec jekyll build -d public
@@ -30,3 +17,11 @@ pages:
     - public
   only:  # Only deploy the master branch
   - main
+
+test:
+  stage: test
+  script:
+    - bundle exec jekyll build -d test
+  artifacts:
+    paths:
+      - test
