@@ -21,6 +21,8 @@ pages:
   - main
 
 test:
+  tags:
+    - medium
   stage: test
   script:
     - bundle exec jekyll build -d test
