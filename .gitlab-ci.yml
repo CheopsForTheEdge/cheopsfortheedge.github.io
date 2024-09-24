@@ -19,13 +19,3 @@ pages:
     - public
   only:  # Only deploy the master branch
   - main
-
-test:
-  tags:
-    - medium
-  stage: test
-  script:
-    - bundle exec jekyll build -d test
-  artifacts:
-    paths:
-      - test
