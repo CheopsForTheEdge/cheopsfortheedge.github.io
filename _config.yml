@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
 
-repository: discovery/cheops-for-the-edge/
+repository: "cheops-for-the-edge/"
 title: Cheops
 description: Push your Cloud applications to the Edge
 
