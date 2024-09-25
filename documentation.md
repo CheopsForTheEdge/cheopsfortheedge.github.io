@@ -1,5 +1,6 @@
 ---
 permalink: /documentation.html
+layout: default
 ---
 
 # Documentation
