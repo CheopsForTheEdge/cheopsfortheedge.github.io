@@ -1,8 +1,9 @@
 theme: jekyll-theme-cayman
 
 
-baseurl: "/cheops-for-the-edge" 
+baseurl: "/cheops-for-the-edge"
 repository: "cheops-for-the-edge"
+url: "https://discovery.gitlabpages.inria.fr/cheops-for-the-edge/"
 title: Cheops
 description: Push your Cloud applications to the Edge
 
